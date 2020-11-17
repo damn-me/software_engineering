@@ -1,0 +1,202 @@
+body{
+  background: #5b9653;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.container{
+  position: relative;
+  text-align: center;
+  color:#bd0000;
+  text-decoration: none;
+}
+/* .center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+#what1{
+  text-transform: capitalize;
+  color:steelblue;
+}
+#p1{
+  text-transform: capitalize;
+  font-family:monospace;
+  font-size:3vh;
+  font-variant-ligatures: normal;
+  text-align: center;
+}
+.red{
+  background: url("https://i.pinimg.com/originals/b2/71/f1/b271f1066c683112c42cdd03a216a205.jpg");
+  background-size: cover;
+  border: 6px solid black;
+}
+.r1{
+  text-align: center;
+  text-transform: capitalize;
+}
+#d1{
+  width:50%;
+  color:white;
+}
+#d2{
+  color:white;
+}
+#d3{
+  padding:20px;
+  background:#8a7846
+}
+#d4{
+  padding:20px;
+  background-color: #8a7846;
+}
+.target1{
+  font-size: 6vh;
+  font-color:red;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+#join_us{
+  text-decoration: underline;
+  text-align:center;
+  text-transform: capitalize;
+  color:black;
+}
+/* .target2{
+  color:grey;
+  font-family:fantasy;
+} */
+#para1{
+  color:black;
+  font-family:cursive;
+  text-transform: capitalize;
+}
+#hover1:hover{
+  color:steelblue;
+}
+#table1{
+  color=black;
+  font-family: monospace;
+  font-size:2vw;
+}
+#login:link{
+  color:red;
+  text-decoration: none;
+}
+#login:hover{
+  color:#ff9900;
+  text-decoration: none;
+}
+#google-trend:link{
+  color:black;
+  text-decoration: none;
+}
+#google-trend:hover{
+  color:green;
+}
+
+ul>li{
+  color:solid black;
+}
+
+/* for all the h2 in class=target2 */
+
+.tab1{
+  text-align: center;
+  text-transform: capitalize;
+}
+#t11{
+  width:33.3vw;
+  height:300px;
+  background: url("https://www.goodnet.org/photos/281x197/32553_hd.jpg");
+  padding:20px;
+}
+#t11:hover{
+  background: black;
+  color:white;
+}
+#t12{
+  width:33.3vw;
+  height:300px;
+  background: #b30202;
+  padding:20px;
+  margin:20px;
+}
+#t12:hover{
+  background: black;
+  color:white;
+}
+#t13{
+  width:33.4vw;
+  height:300px;
+  background: url("https://media1.s-nbcnews.com/i/newscms/2019_24/2895091/190613-donating-blood-cs-406p_c7ece08578922a72c9c7e853226a4fec.jpg");
+  background-size: cover;
+  padding:20px;
+}
+#t13:hover{
+  background: black;
+  color:white;
+}
+hr{
+  border-top: 1px solid black;
+}
+h2[class=target2]{
+  color:maroon;
+}
+
+
+.table2{
+  text-transform: capitalize;
+}
+#t21{
+  width:50vw;
+  height:300px;
+  background: white;
+  padding:20px;
+  background-color: grey;
+  border:6px solid black;
+}
+#t21:hover{
+  background: black;
+  color:white;
+}
+#t22{
+  width:50vw;
+  height:300px;
+  background: white;
+  padding:20px;
+  background-color: grey;
+  border:6px solid black;
+}
+#t22:hover{
+  background: black;
+  color:white;
+}
+/* img[src="blood.png"]{
+  border: 10px solid white;
+} */
