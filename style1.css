@@ -94,8 +94,10 @@ to{background:none;}
 }
 #blood-group{
   padding:5px;
-  margin-left: 46%;
-  margin-bottom:20px;
+
+  transform: translate(0%,50%);
+  margin-bottom: 20px;
+  margin-left: 20px;
   color:white;
   background: none;
 }
@@ -106,7 +108,7 @@ animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
 }
 .textbox{
-  margin-left: 40.8%;
+  transform: translate(0%,50%);
 }
 @keyframes emergency {
   0%{border:2px solid white;}
