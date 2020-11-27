@@ -93,3 +93,18 @@ from{background: #00bf7c}
 to{background:none;}
 
 }
+#blood-group{
+  padding:5px;
+
+  transform: translate(0%,50%);
+  margin-bottom: 20px;
+  margin-left: 20px;
+  color:white;
+  background: none;
+}
+ #blood-group{
+animation-name:emergency;
+animation-duration: 1s;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+}
